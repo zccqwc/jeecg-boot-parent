@@ -1,0 +1,41 @@
+{
+  "message": "",
+  "result": {
+    "pageSize": 10,
+    "pageNo": 0,
+    "totalCount": 57,
+    "totalPage": 6,
+    "data": [
+      {
+        "key": 1,
+        "area_name": "樱园",
+        "building_name": "一舍",
+        "dormitory_name": 521,
+        "elec_type": "照明",
+        "updatedAt": "1970-06-24 11:51:20",
+        "postage_status": "正常",
+        "Account_balance": 46.56,
+        "Surplus_subsidy": 24.35,
+        "num_people": 6,
+        "power_status": "锁定",
+        "switch_state": "通路"
+      },
+      {
+        "key": 2,
+        "area_name": "桃园",
+        "building_name": "2舍",
+        "dormitory_name": 523,
+        "elec_type": "空调",
+        "updatedAt": "1970-09-24 11:51:20",
+        "postage_status": "欠费",
+        "Account_balance": 46.56,
+        "Surplus_subsidy": 24.35,
+        "num_people": 5,
+        "power_status": "正常",
+        "switch_state": "断路"
+      }
+    ]
+  },
+  "status": 200,
+  "timestamp": 1534955098193
+}
